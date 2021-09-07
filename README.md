@@ -1,5 +1,9 @@
 # InnoHours.Android
-Mobile application that simplifies the interaction of students and professors with office hours
+## Description
+Mobile application that simplifies the interaction of students and professors with office 
+
+## Screenshots
+![sdfsd](inno_hours.png)
 
 ## Features
 - Students can easily see professor’s available office hours and remotely apply for them
