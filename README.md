@@ -19,3 +19,9 @@ Mobile application that simplifies the interaction of students and professors wi
 - Installed Kotlin plugin
 - [Kodein-DI](https://github.com/Kodein-Framework/Kodein-DI)
 - [MongoDB](https://www.mongodb.com/)
+
+## Credits 
+Ilnur Davletshin, Alexey Smolyakov, Alisa Ivanova, Arina Kilmukhametova
+
+## Licence
+free
