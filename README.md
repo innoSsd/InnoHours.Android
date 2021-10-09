@@ -41,10 +41,9 @@ Build an application for mobile platforms where students can easily see professo
 * Office hours - hours that the professor could spend to additionally explain material and answer the questions for individual students
 
 ## Technical Stack <a name= "Technical_Stack"></a>
-* Heroku hosting serber  
+* Heroku hosting server  
 * MongoDB database  
-* C# programming language  
-* ASP.net   
+* Kotlin programming language  
 
 ## Requirement Analysis and Specifications <a name="Requirement_Analysis_and_Specifications"></a>
 ### Features <a name="Features"></a>
@@ -82,13 +81,6 @@ We use MVC for web server and MVVM for android application as it is the most pop
 ![image](https://user-images.githubusercontent.com/69847242/136661052-90ac5e9a-1e94-4895-81fc-adb47c5a0bca.png)   
 ![image](https://user-images.githubusercontent.com/69847242/136661103-f74836a5-31bf-41a3-a315-9538a415c15a.png)   
   
- 
-
-## Getting Started <a name="Getting_Started"></a>
-1. Download and install Android Studio  
-2. Clone or download this repository  
-3. Build project     
-Free licence
 
 ## Milestone
 |Milestone|Timeline                     |Status     |
