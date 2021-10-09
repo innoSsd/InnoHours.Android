@@ -79,13 +79,19 @@ We use MVC for web server and MVVM for android application as it is the most pop
 [Link to the board (1st page)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
 
 
-## Prototype Screenshots <a name="Prototype_Screenshots"></a>
-![main_menu](https://user-images.githubusercontent.com/69847242/136660988-f6cd775c-5e88-4a54-89fc-7cc1cd996e87.PNG)    
-![image](https://user-images.githubusercontent.com/69847242/136661224-0f2ffe27-a52d-4ca3-8172-7877d22b3f38.png)   
-![image](https://user-images.githubusercontent.com/69847242/136661134-7debe4a9-4618-45b1-944a-ac985e8dafdc.png)   
-![image](https://user-images.githubusercontent.com/69847242/136661052-90ac5e9a-1e94-4895-81fc-adb47c5a0bca.png)   
-![image](https://user-images.githubusercontent.com/69847242/136661103-f74836a5-31bf-41a3-a315-9538a415c15a.png)   
-  
+## Prototype Screenshots <a name="Prototype_Screenshots"></a>  
+
+![InnoHours_page-0002](https://user-images.githubusercontent.com/69847242/136667332-3d37ffe0-416b-4bd7-8579-2a5a8c6276cf.jpg)   
+![InnoHours_page-0001](https://user-images.githubusercontent.com/69847242/136667345-e33d3fba-abcc-426e-843b-830d2917b892.jpg)   
+![InnoHours_page-0003](https://user-images.githubusercontent.com/69847242/136667269-76818a8a-0870-4837-b6fd-f65d14700a89.jpg)  
+![InnoHours_page-0013](https://user-images.githubusercontent.com/69847242/136667412-eff27664-466d-47a8-9b43-3114f53ab467.jpg)  
+![InnoHours_page-0006](https://user-images.githubusercontent.com/69847242/136667361-ab87322b-f5a6-4a63-853e-befc05c2150c.jpg)  
+![InnoHours_page-0007](https://user-images.githubusercontent.com/69847242/136667365-13fbd784-f322-41b2-aa43-ab541d8366ec.jpg)    
+![InnoHours_page-0009](https://user-images.githubusercontent.com/69847242/136667378-eecb6faf-69b1-4188-94a1-67ba585ef9c9.jpg)  
+![InnoHours_page-0011](https://user-images.githubusercontent.com/69847242/136667387-6d0cc93c-9c11-4189-aed8-6678acc2f85e.jpg)  
+![InnoHours_page-0012](https://user-images.githubusercontent.com/69847242/136667392-e3cf2300-0b3c-4067-8a2b-50199544c11f.jpg)  
+![InnoHours_page-0014](https://user-images.githubusercontent.com/69847242/136667415-11b6041e-5db5-4858-bc2d-0056cb24b25c.jpg)
+![InnoHours_page-0008](https://user-images.githubusercontent.com/69847242/136667474-4752e98b-a3f7-4681-b7bf-40373d3b6de8.jpg)   
 
 ## Milestone <a name="Milestone"></a>
 |Milestone|Timeline                     |Status     |
