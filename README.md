@@ -76,7 +76,7 @@ Build an application for mobile platforms where students can easily see professo
 
 ## Architecture <a name="Architecture"></a>
 We use MVC for web server and MVVM for android application as it is the most popular approach
-[Link to the board (2 pages)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
+[Link to the board (1st page)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
 
 
 ## Prototype Screenshots <a name="Prototype_Screenshots"></a>
@@ -94,7 +94,8 @@ We use MVC for web server and MVVM for android application as it is the most pop
 |Beta     |18/09/2021 - 25/09/2021	|Done       |
 |Gamma    |04/10/2021 - 09/10/2021	|In progress|
 
-
+## RUP Artifacts <a name= "RUP"></a>
+[Link to the artifact](https://docs.google.com/document/d/1MY-dTXMQh5X-mnlQc0XdEennbpm3Vawk/edit)
 
 ## Authors <a name="Authors"></a> 
 Alisa Ivanova, Alexey Smolyakov, Ilnur Davletshin, Arina Kilmukhametova   
