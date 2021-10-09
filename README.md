@@ -76,7 +76,7 @@ Build an application for mobile platforms where students can easily see professo
 
 ## Architecture <a name="Architecture"></a>
 We use MVC for web server and MVVM for android application as it is the most popular approach
-[Link to the board (3 pages)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
+[Link to the board (2 pages)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
 
 
 ## Prototype Screenshots <a name="Prototype_Screenshots"></a>
