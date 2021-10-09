@@ -10,11 +10,11 @@ This is a mobile application that simplifies the interaction of students and pro
   * 2.4. [Technical Stack](#Technical_Stack)  
   * 2.5. [Requirement Analysis and Specifications](#Requirement_Analysis_and_Specifications)    
     - 2.5.1. [Features](#Features)  
-    - 2.5.2. [User Stories](#User_Stories)       
+    - 2.5.2. [User Stories](#User_Stories)
+    - 2.5.3. [Non-functional requirements](#Non-functional_requirements)      
   * 2.6. [Architecture](#Architecture)  
-  * 2.7. [Prototype Screenshots](#Prototype_Screenshots)  
-  * 2.8. [Getting Started](#Getting_Started)  
-  * 2.9 [Milestone](#Milestone_Plan)  
+  * 2.7. [Prototype Screenshots](#Prototype_Screenshots)   
+  * 2.8 [Milestone](#Milestone)  
  
 [Authors](#Authors)
 
@@ -41,8 +41,6 @@ Build an application for mobile platforms where students can easily see professo
 * Office hours - hours that the professor could spend to additionally explain material and answer the questions for individual students
 
 ## Technical Stack <a name= "Technical_Stack"></a>
-* Heroku hosting server  
-* MongoDB database  
 * Kotlin programming language  
 
 ## Requirement Analysis and Specifications <a name="Requirement_Analysis_and_Specifications"></a>
@@ -69,6 +67,13 @@ Build an application for mobile platforms where students can easily see professo
 | Student, Professor |Push-notifications|As an authorized user I want to receive notifications about classes, office hours and can set them|
 | Student, Professor |Registration and authorization|As a user I can register into the application by entering my email password and confirming the password <br /> As a user I want to login in by entering my nickname/mail and password <br /> As a user I want to request professor permissions|
 
+### Non-functional requirements <a name="Non-functional_requirements"></a>
+* The registration confirmation email message must be delivered within 5 minutes   
+* The office hours slot must have maximum available slots for students   
+* The schedule may be filtered by grade, group and visualized more readable way   
+* Unauthorized users should not have an opportunity to apply for office hours   
+
+
 ## Architecture <a name="Architecture"></a>
 We use MVC for web server and MVVM for android application as it is the most popular approach
 [Link to the board (3 pages)](https://app.diagrams.net/#G1zkhNU5fc5XHF-9UQ4puewK5DyX-7-eoU)
@@ -82,7 +87,7 @@ We use MVC for web server and MVVM for android application as it is the most pop
 ![image](https://user-images.githubusercontent.com/69847242/136661103-f74836a5-31bf-41a3-a315-9538a415c15a.png)   
   
 
-## Milestone
+## Milestone <a name="Milestone"></a>
 |Milestone|Timeline                     |Status     |
 |---------|-----------------------------|-----------|
 |Alpha    |31/08/2021 - 06/09/2021      |Done       |
