@@ -15,7 +15,7 @@ This is a mobile application that simplifies the interaction of students and pro
   * 2.6. [Architecture](#Architecture)  
   * 2.7. [Prototype Screenshots](#Prototype_Screenshots)   
   * 2.8 [Milestone](#Milestone)  
- 
+ [RUP Articats](#RUP)   
 [Authors](#Authors)
 
 # Development Plan <a name="Development_Plan"></a>
@@ -97,8 +97,6 @@ We use MVC for web server and MVVM for android application as it is the most pop
 
 
 ## Authors <a name="Authors"></a> 
-Designer - Alisa Ivanova   
-App developers - Alexey Smolyakov, Ilnur Davletshin   
-Server Developer - Arina Kilmukhametova   
+Alisa Ivanova, Alexey Smolyakov, Ilnur Davletshin, Arina Kilmukhametova   
 
 
