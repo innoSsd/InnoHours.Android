@@ -104,6 +104,9 @@ We use MVC for web server and MVVM for android application as it is the most pop
 [Link to the artifact](https://docs.google.com/document/d/1MY-dTXMQh5X-mnlQc0XdEennbpm3Vawk/edit)
 
 ## Authors <a name="Authors"></a> 
-Alisa Ivanova, Alexey Smolyakov, Ilnur Davletshin, Arina Kilmukhametova   
+Alisa Ivanova   
+Alexey Smolyakov     
+Ilnur Davletshin   
+Arina Kilmukhametova   
 
 
